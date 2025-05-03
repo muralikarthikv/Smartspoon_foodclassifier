@@ -43,14 +43,5 @@ Demo Image :point_down:
  ```
  pip install -r requirements.txt
 ```
-# Motivation 💪 
- What to do when you are at home due to this pandemic situation? I started to learn Machine Learning and Deep learning 
- in last 8 months . I came to know mathematics behind all supervised models. Finally it is important to 
- work on application (real world application) to actually make a difference.
- 
-# Bug / Features
- If you find any bug or other problem regarding this project so just contact me on handles given below or also create an issue in issue section
- - **Linkdin** - https://www.linkedin.com/in/sarthak-sharma-5472aa1a0/
- - **Gmail** - sarthakparashar1408@gmail.com
  
 
